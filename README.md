@@ -1,6 +1,6 @@
 # CS360
 Alyssa Bailey
-Professor DiMarzio
+
 
 1. Requirements and Goals: The CS360 Project 3 app developed in Android Studio aimed to create a user-friendly weight loss tracker. It was designed to address the user's need for a convenient way to monitor their daily weight and progress towards their weight loss goals.
 2.Screens and Features: The necessary screens and features included:
